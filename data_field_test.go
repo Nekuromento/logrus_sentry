@@ -7,8 +7,8 @@ import (
 	"strconv"
 	"testing"
 
-	"github.com/getsentry/raven-go"
-	"github.com/sirupsen/logrus"
+	"github.com/Sirupsen/logrus"
+	raven "github.com/getsentry/raven-go"
 	"github.com/stretchr/testify/assert"
 )
 
